@@ -1,0 +1,15 @@
+{
+  "name": "vs-code-essential-extentions",
+  "version": "1.0.0",
+  "description": "A set of essential productivity exentions list mainly for frontend development",
+  "publisher": "vishalpaliwal",
+  "author" : {
+    "name" : "Vishal Paliwal"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
